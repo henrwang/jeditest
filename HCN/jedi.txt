@@ -1,0 +1,75 @@
+
+ 
+
+ ************************************************
+ *                 JEDI ANALYSIS                *
+ *       Judgement of Energy DIstribution       *
+ ************************************************
+
+                   Strain Energy (kcal/mol)  Deviation (%)
+      Geometries     4.17927287                  -
+ Red. Int. Modes      0.03250041               -99.22
+
+ RIM No.       RIM type                       indices        delta_q (au) Percentage    Energy (kcal/mol)
+     1       bond                                H0 C8        0.0038052      4.2        0.0013601
+     2       bond                               H1 C15        0.0037647      4.1        0.0013290
+     3       bond                                C2 N5       -0.0012855      2.1        0.0006810
+     4       bond                                C2 H6        0.0038777      4.4        0.0014145
+     5       bond                                C3 N4       -0.0012746      2.1        0.0006690
+     6       bond                               C3 H13        0.0037647      4.1        0.0013329
+     7       bond                               H7 C21        0.0037663      4.1        0.0013334
+     8       bond                               C8 N11       -0.0013043      2.2        0.0007004
+     9       bond                               C9 N10       -0.0012379      1.9        0.0006324
+    10       bond                               C9 H19        0.0037663      4.1        0.0013337
+    11       bond                              H12 C20        0.0038052      4.2        0.0013609
+    12       bond                              C14 N17       -0.0012855      2.1        0.0006815
+    13       bond                              C14 H18        0.0038777      4.4        0.0014156
+    14       bond                              C15 N16       -0.0012746      2.1        0.0006695
+    15       bond                              C20 N23       -0.0013043      2.2        0.0007005
+    16       bond                              C21 N22       -0.0012379      1.9        0.0006326
+    17       bond                              H24 C32        0.0038052      4.2        0.0013608
+    18       bond                              H25 C39        0.0037647      4.1        0.0013330
+    19       bond                              C26 N29       -0.0012855      2.1        0.0006815
+    20       bond                              C26 H30        0.0038777      4.4        0.0014156
+    21       bond                              C27 N28       -0.0012746      2.1        0.0006692
+    22       bond                              C27 H37        0.0037647      4.1        0.0013329
+    23       bond                              H31 C45        0.0037663      4.1        0.0013337
+    24       bond                              C32 N35       -0.0013043      2.2        0.0007005
+    25       bond                              C33 N34       -0.0012379      1.9        0.0006324
+    26       bond                              C33 H43        0.0037663      4.1        0.0013337
+    27       bond                              H36 C44        0.0038052      4.2        0.0013609
+    28       bond                              C38 N41       -0.0012855      2.1        0.0006815
+    29       bond                              C38 H42        0.0038777      4.4        0.0014156
+    30       bond                              C39 N40       -0.0012746      2.1        0.0006692
+    31       bond                              C44 N47       -0.0013043      2.2        0.0007005
+    32       bond                              C45 N46       -0.0012379      1.9        0.0006324
+    33       bond angle                      H0 C8 N11       -0.0000001      0.0        0.0000000
+    34       bond angle                     H1 C15 N16       -0.0000001     -0.0       -0.0000000
+    35       bond angle                      N4 C3 H13       -0.0000001     -0.0       -0.0000000
+    36       bond angle                       N5 C2 H6       -0.0000001     -0.0       -0.0000000
+    37       bond angle                     H7 C21 N22       -0.0000001     -0.0       -0.0000000
+    38       bond angle                     N10 C9 H19       -0.0000001     -0.0       -0.0000000
+    39       bond angle                    H12 C20 N23       -0.0000001      0.0        0.0000000
+    40       bond angle                    N17 C14 H18       -0.0000001     -0.0       -0.0000000
+    41       bond angle                    H24 C32 N35       -0.0000001      0.0        0.0000000
+    42       bond angle                    H25 C39 N40       -0.0000001     -0.0       -0.0000000
+    43       bond angle                    N28 C27 H37       -0.0000001     -0.0       -0.0000000
+    44       bond angle                    N29 C26 H30       -0.0000001     -0.0       -0.0000000
+    45       bond angle                    H31 C45 N46       -0.0000001     -0.0       -0.0000000
+    46       bond angle                    N34 C33 H43       -0.0000001     -0.0       -0.0000000
+    47       bond angle                    H36 C44 N47       -0.0000001      0.0        0.0000000
+    48       bond angle                    N41 C38 H42       -0.0000001     -0.0       -0.0000000
+
+
+Creating tcl scripts for generating color-coded structures in VMD...
+
+Processing bond lengths...
+Maximum energy in a bond length:        4.36%
+Total energy in the bond lengths:     100.00%
+
+Processing bond angles...
+Maximum energy in a bond angle:         0.00%
+Total energy in the bond angles:        0.00%
+
+Adding all energies for the stretch, bending and torsion of the bond with maximum strain...
+Maximum energy in bond between atoms 38 and 42: 0.001 kcal/mol.
